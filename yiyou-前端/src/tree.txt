@@ -1,0 +1,123 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 ACA8-BA1D
+E:.
+│  App.vue
+│  main.js
+│  tree.txt
+│  
+├─assets
+│  │  logo.png
+│  │  
+│  ├─font
+│  │      font.css
+│  │      MicrosoftYaHei.ttf
+│  │      msyh.ttc
+│  │      
+│  ├─image
+│  │      avatar.png
+│  │      contactUs.png
+│  │      edit.png
+│  │      Ellipse 11.png
+│  │      Ellipse 13.png
+│  │      Ellipse 15.png
+│  │      Ellipse 17.png
+│  │      Ellipse 19.png
+│  │      Ellipse 30.png
+│  │      Ellipse 46.png
+│  │      Ellipse 47.png
+│  │      Ellipse 48.png
+│  │      Ellipse 49.png
+│  │      Ellipse 50.jpg
+│  │      Ellipse 6.png
+│  │      Ellipse 9.png
+│  │      Ellipse66.png
+│  │      goods1.png
+│  │      goods4.png
+│  │      Group 55.png
+│  │      home1.png
+│  │      home2.png
+│  │      image 4.png
+│  │      image 5.png
+│  │      login.png
+│  │      love.png
+│  │      miyuansu_58a6cf0bc1950eb6f1dd25c5a6a4b2a7_cqlfyaxopp 1 (1).png
+│  │      miyuansu_58a6cf0bc1950eb6f1dd25c5a6a4b2a7_cqlfyaxopp 1.png
+│  │      more.png
+│  │      Rectangle 79.png
+│  │      Rectangle 80.png
+│  │      信封,信息,消息 1.png
+│  │      图片 (1) 1.png
+│  │      打勾 1.png
+│  │      收藏1.png
+│  │      糖果 1.png
+│  │      表情 1.png
+│  │      
+│  └─style
+│          bootstrap.css
+│          global.css
+│          index.css
+│          mixin.less
+│          reset.css
+│          variable.less
+│          
+├─components
+│      asiderByPersonal.vue
+│      bbutton.vue
+│      header.vue
+│      inputsearch.vue
+│      pagination copy.vue
+│      Pagination.vue
+│      personalData.vue
+│      
+├─icons
+│  │  index.js
+│  │  index.vue
+│  │  
+│  └─svg
+│          login.svg
+│          
+├─router
+│      index.js
+│      
+├─utils
+│      getTime.js
+│      goods.js
+│      request.js
+│      
+└─views
+    │  Home.vue
+    │  Homepage.vue
+    │  shoppingCentre.vue
+    │  
+    ├─contactUs
+    │      afterContactUs.vue
+    │      beforeContactUs.vue
+    │      contactUs.vue
+    │      
+    ├─Login
+    │      codeLogin.vue
+    │      forgetPassword.vue
+    │      Login.vue
+    │      passwordLogin.vue
+    │      register.vue
+    │      
+    ├─personalCenter
+    │      bidOrders.vue
+    │      contactCustomerService.vue
+    │      editPersonalData.vue
+    │      myCollection.vue
+    │      myMessage.vue
+    │      myPosting.vue
+    │      personalCenter.vue
+    │      personalHomepage.vue
+    │      postGoods.vue
+    │      Purchased.vue
+    │      safeGuide.vue
+    │      shippingAddress.vue
+    │      Sold.vue
+    │      storeManagement.vue
+    │      
+    └─shoopingCentre
+            goodsDetails.vue
+            shoppingCentreHomepage.vue
+            
